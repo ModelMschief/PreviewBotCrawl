@@ -111,7 +111,7 @@ function buildPreviewHTML({
       justify-content: center;
       min-height: 100vh;
       margin: 0;
-      background: #fafafa;
+      background: #000000;
       color: #333;
     }
     .container {
@@ -129,9 +129,9 @@ function buildPreviewHTML({
 </head>
 <body>
   <div class="container">
-    <h1>${esc(title)}</h1>
+    <!-- <h1>${esc(title)}</h1> 
     <p>${esc(description)}</p>
-    ${redirect ? `<p>Redirecting to <a href="${esc(canonical)}">${esc(canonical)}</a>...</p>` : `<p><a href="${esc(canonical)}">Visit ${esc(siteName)}</a></p>`}
+    ${redirect ? `<p>Redirecting to <a href="${esc(canonical)}">${esc(canonical)}</a>...</p>` : `<p><a href="${esc(canonical)}">Visit ${esc(siteName)}</a></p>`}-->
   </div>
 </body>
 </html>`;
