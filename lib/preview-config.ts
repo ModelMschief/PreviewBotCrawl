@@ -33,29 +33,29 @@ export const SLUG_METADATA: Record<
     title: "BotFusion - AI-Powered Automation Platform",
     description:
       "Connect your favorite tools and automate workflows with AI. No coding required.",
-    image: "https://botfusion.wuaze.com/og-home.png",
+    image: "https://modelmschief.github.io/flame/android-chrome-512x512.png",
     canonical: "https://botfusion.wuaze.com",
   },
   pricing: {
     title: "Pricing - BotFusion",
     description:
       "Simple, transparent pricing. Start free and scale as you grow.",
-    image: "https://botfusion.wuaze.com/og-pricing.png",
-    canonical: "https://botfusion.wuaze.com/pricing",
+    image: "https://modelmschief.github.io/flame/android-chrome-512x512.png",
+    canonical: "https://botfusion.wuaze.com/",
   },
   features: {
     title: "Features - BotFusion",
     description:
       "Explore powerful automation features: AI agents, integrations, workflows, and more.",
-    image: "https://botfusion.wuaze.com/og-features.png",
-    canonical: "https://botfusion.wuaze.com/features",
+    image: "https://modelmschief.github.io/flame/android-chrome-512x512.png",
+    canonical: "https://botfusion.wuaze.com/",
   },
   docs: {
     title: "Documentation - BotFusion",
     description:
       "Learn how to build automations with our comprehensive guides and API reference.",
-    image: "https://botfusion.wuaze.com/og-docs.png",
-    canonical: "https://botfusion.wuaze.com/docs",
+    image: "https://modelmschief.github.io/flame/android-chrome-512x512.png",
+    canonical: "https://botfusion.wuaze.com/docs.html",
   },
   // Add more slugs as needed...
 };
