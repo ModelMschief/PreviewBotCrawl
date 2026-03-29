@@ -6,10 +6,10 @@
 
 // Default metadata (fallback when no overrides provided)
 export const DEFAULT_METADATA = {
-  title: process.env.PREVIEW_DEFAULT_TITLE || "BotFusion - AI-Powered Automation",
+  title: process.env.PREVIEW_DEFAULT_TITLE || "BotFusion - Telegram developer tool platform",
   description:
     process.env.PREVIEW_DEFAULT_DESCRIPTION ||
-    "Streamline your workflows with intelligent automation. BotFusion connects your tools and automates repetitive tasks.",
+    "Broadcast, analytics, anomaly detection, QR codes, link tracking and automation APIs for Telegram bots.",
   image:
     process.env.PREVIEW_DEFAULT_IMAGE ||
     "https://botfusion.wuaze.com/og-default.png",
