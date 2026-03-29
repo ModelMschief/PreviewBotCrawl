@@ -12,7 +12,7 @@ export const DEFAULT_METADATA = {
     "Broadcast, analytics, anomaly detection, QR codes, link tracking and automation APIs for Telegram bots.",
   image:
     process.env.PREVIEW_DEFAULT_IMAGE ||
-    "https://botfusion.wuaze.com/og-default.png",
+    "https://modelmschief.github.io/flame/android-chrome-512x512.png",
   canonical: process.env.PREVIEW_DEFAULT_CANONICAL || "https://botfusion.wuaze.com",
   siteName: process.env.PREVIEW_SITE_NAME || "BotFusion",
   twitterHandle: process.env.PREVIEW_TWITTER_HANDLE || "@botfusion",
